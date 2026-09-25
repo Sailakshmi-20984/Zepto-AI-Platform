@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zepto AI Support Console</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand"><div class="brand-mark">Z</div><div><strong>Zepto AI</strong><span>Support Console</span></div></div>
+      <div class="workspace-pill"><span class="workspace-dot"></span><span>Customer Support</span><span class="chevron">⌄</span></div>
+      <nav>
+        <button class="nav-item active"><span>⌂</span> Support Home</button>
+        <button class="nav-item" id="policyBtn"><span>▣</span> Policy Library</button>
+        <button class="nav-item" id="historyBtn"><span>◷</span> Recent Chats</button>
+      </nav>
+      <div class="side-section-title">QUICK ACCESS</div>
+      <button class="side-link" data-query="What is the delivery fee?"><span>↗</span> Delivery policy</button>
+      <button class="side-link" data-query="How do I get a refund?"><span>↩</span> Refund policy</button>
+      <div class="side-card"><div class="pulse"></div><div><b>AI service online</b><small>RAG knowledge base ready</small></div></div>
+      <div class="sidebar-footer">v2.2 • Internal demo</div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="page-heading"><span class="eyebrow">CUSTOMER EXPERIENCE</span><h1>Support Assistant <span class="live-pill">LIVE</span></h1></div>
+        <div class="top-actions"><span class="secure-pill">● Local knowledge base</span><button id="themeToggle" class="icon-btn" title="Toggle theme">☼</button></div>
+      </header>
+
+      <section class="hero-card">
+        <div class="hero-copy">
+          <span class="badge">✦ RAG POWERED</span>
+          <h2>Fast answers. Clear support.</h2>
+          <p>Ask about delivery, returns, refunds, cancellations, gift cards, or support hours.</p>
+          <div class="hero-stats"><span><b>24/7</b> availability</span><i></i><span><b>3</b> sources per query</span><i></i><span><b>Local</b> policy data</span></div>
+        </div>
+        <div class="hero-orb"><span>AI</span><div class="orb-ring"></div></div>
+      </section>
+
+      <div class="section-heading"><div><b>What do you need help with?</b><span>Start with a common topic</span></div><span class="topic-count">4 topics</span></div>
+      <section class="quick-grid">
+        <button class="quick-card delivery" data-query="What is the delivery fee?"><span class="card-icon">🚚</span><div><b>Delivery</b><small>Fees & timing</small></div><em>→</em></button>
+        <button class="quick-card refund" data-query="How do I get a refund?"><span class="card-icon">↩</span><div><b>Refunds</b><small>Eligibility & timing</small></div><em>→</em></button>
+        <button class="quick-card cancel" data-query="Can I cancel my order?"><span class="card-icon">✕</span><div><b>Cancellation</b><small>Order status</small></div><em>→</em></button>
+        <button class="quick-card gift" data-query="Are gift cards available?"><span class="card-icon">🎁</span><div><b>Gift Cards</b><small>Denominations</small></div><em>→</em></button>
+      </section>
+
+      <section class="chat-panel">
+        <div class="panel-head"><div class="conversation-title"><span class="bot-mini">Z</span><div><b>AI Conversation</b><span id="statusText">Ready for your question</span></div></div><button id="clearBtn" class="clear-btn">↻ Clear</button></div>
+        <div id="messages" class="messages">
+          <div class="message assistant"><div class="avatar">Z</div><div class="bubble"><b>Hi! I'm your Zepto support assistant.</b><p>Choose a topic above or type a question below. I'll answer using the available policy knowledge base.</p><div class="welcome-tip">✦ Tip: Ask a specific policy question for the most relevant source.</div></div></div>
+        </div>
+        <div class="composer-wrap">
+          <div class="composer"><textarea id="query" rows="1" maxlength="500" placeholder="Ask anything about Zepto policies..."></textarea><button id="sendBtn">↑</button></div>
+          <div class="composer-meta"><span>Press <b>Enter</b> to send · Shift+Enter for a new line</span><span id="counter">0 / 500</span></div>
+        </div>
+      </section>
+      <footer><span>◉</span> Answers are generated from the project's local policy documents. Verify important account-specific details in the Zepto app.</footer>
+    </main>
+  </div>
+  <script src="/static/app.js"></script>
+</body>
+</html>

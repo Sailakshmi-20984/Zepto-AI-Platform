@@ -1,0 +1,410 @@
+[
+    {
+        "title": "It's Only the Himalayas",
+        "category": "Travel",
+        "price_gbp": 45.17,
+        "price_inr": 4765.44,
+        "rating": 2,
+        "in_stock": 1
+    },
+    {
+        "title": "Full Moon over Noah\u2019s Ark: An Odyssey to Mount Ararat and Beyond",
+        "category": "Travel",
+        "price_gbp": 49.43,
+        "price_inr": 5214.86,
+        "rating": 4,
+        "in_stock": 1
+    },
+    {
+        "title": "See America: A Celebration of Our National Parks & Treasured Sites",
+        "category": "Travel",
+        "price_gbp": 48.87,
+        "price_inr": 5155.78,
+        "rating": 3,
+        "in_stock": 1
+    },
+    {
+        "title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+        "category": "Travel",
+        "price_gbp": 36.94,
+        "price_inr": 3897.17,
+        "rating": 2,
+        "in_stock": 1
+    },
+    {
+        "title": "Under the Tuscan Sun",
+        "category": "Travel",
+        "price_gbp": 37.33,
+        "price_inr": 3938.31,
+        "rating": 3,
+        "in_stock": 1
+    },
+    {
+        "title": "A Summer In Europe",
+        "category": "Travel",
+        "price_gbp": 44.34,
+        "price_inr": 4677.87,
+        "rating": 2,
+        "in_stock": 1
+    },
+    {
+        "title": "The Great Railway Bazaar",
+        "category": "Travel",
+        "price_gbp": 30.54,
+        "price_inr": 3221.97,
+        "rating": 1,
+        "in_stock": 1
+    },
+    {
+        "title": "A Year in Provence (Provence #1)",
+        "category": "Travel",
+        "price_gbp": 56.88,
+        "price_inr": 6000.84,
+        "rating": 4,
+        "in_stock": 1
+    },
+    {
+        "title": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+        "category": "Travel",
+        "price_gbp": 23.21,
+        "price_inr": 2448.66,
+        "rating": 1,
+        "in_stock": 1
+    },
+    {
+        "title": "Neither Here nor There: Travels in Europe",
+        "category": "Travel",
+        "price_gbp": 38.95,
+        "price_inr": 4109.23,
+        "rating": 3,
+        "in_stock": 1
+    },
+    {
+        "title": "1,000 Places to See Before You Die",
+        "category": "Travel",
+        "price_gbp": 26.08,
+        "price_inr": 2751.44,
+        "rating": 5,
+        "in_stock": 1
+    },
+    {
+        "title": "Sharp Objects",
+        "category": "Mystery",
+        "price_gbp": 47.82,
+        "price_inr": 5045.01,
+        "rating": 4,
+        "in_stock": 1
+    },
+    {
+        "title": "In a Dark, Dark Wood",
+        "category": "Mystery",
+        "price_gbp": 19.63,
+        "price_inr": 2070.96,
+        "rating": 1,
+        "in_stock": 1
+    },
+    {
+        "title": "The Past Never Ends",
+        "category": "Mystery",
+        "price_gbp": 56.5,
+        "price_inr": 5960.75,
+        "rating": 4,
+        "in_stock": 1
+    },
+    {
+        "title": "A Murder in Time",
+        "category": "Mystery",
+        "price_gbp": 16.64,
+        "price_inr": 1755.52,
+        "rating": 1,
+        "in_stock": 1
+    },
+    {
+        "title": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+        "category": "Mystery",
+        "price_gbp": 44.1,
+        "price_inr": 4652.55,
+        "rating": 4,
+        "in_stock": 1
+    },
+    {
+        "title": "The Last Mile (Amos Decker #2)",
+        "category": "Mystery",
+        "price_gbp": 54.21,
+        "price_inr": 5719.15,
+        "rating": 2,
+        "in_stock": 1
+    },
+    {
+        "title": "That Darkness (Gardiner and Renner #1)",
+        "category": "Mystery",
+        "price_gbp": 13.92,
+        "price_inr": 1468.56,
+        "rating": 1,
+        "in_stock": 1
+    },
+    {
+        "title": "Tastes Like Fear (DI Marnie Rome #3)",
+        "category": "Mystery",
+        "price_gbp": 10.69,
+        "price_inr": 1127.79,
+        "rating": 1,
+        "in_stock": 1
+    },
+    {
+        "title": "A Time of Torment (Charlie Parker #14)",
+        "category": "Mystery",
+        "price_gbp": 48.35,
+        "price_inr": 5100.93,
+        "rating": 5,
+        "in_stock": 1
+    },
+    {
+        "title": "A Study in Scarlet (Sherlock Holmes #1)",
+        "category": "Mystery",
+        "price_gbp": 16.73,
+        "price_inr": 1765.02,
+        "rating": 2,
+        "in_stock": 1
+    },
+    {
+        "title": "Poisonous (Max Revere Novels #3)",
+        "category": "Mystery",
+        "price_gbp": 26.8,
+        "price_inr": 2827.4,
+        "rating": 3,
+        "in_stock": 1
+    },
+    {
+        "title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+        "category": "Mystery",
+        "price_gbp": 54.36,
+        "price_inr": 5734.98,
+        "rating": 4,
+        "in_stock": 1
+    },
+    {
+        "title": "Most Wanted",
+        "category": "Mystery",
+        "price_gbp": 35.28,
+        "price_inr": 3722.04,
+        "rating": 3,
+        "in_stock": 1
+    },
+    {
+        "title": "Hide Away (Eve Duncan #20)",
+        "category": "Mystery",
+        "price_gbp": 11.84,
+        "price_inr": 1249.12,
+        "rating": 1,
+        "in_stock": 1
+    },
+    {
+        "title": "Boar Island (Anna Pigeon #19)",
+        "category": "Mystery",
+        "price_gbp": 59.48,
+        "price_inr": 6275.14,
+        "rating": 3,
+        "in_stock": 1
+    },
+    {
+        "title": "The Widow",
+        "category": "Mystery",
+        "price_gbp": 27.26,
+        "price_inr": 2875.93,
+        "rating": 2,
+        "in_stock": 1
+    },
+    {
+        "title": "Playing with Fire",
+        "category": "Mystery",
+        "price_gbp": 13.71,
+        "price_inr": 1446.41,
+        "rating": 3,
+        "in_stock": 1
+    },
+    {
+        "title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+        "category": "Mystery",
+        "price_gbp": 25.37,
+        "price_inr": 2676.54,
+        "rating": 5,
+        "in_stock": 1
+    },
+    {
+        "title": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+        "category": "Mystery",
+        "price_gbp": 52.3,
+        "price_inr": 5517.65,
+        "rating": 5,
+        "in_stock": 1
+    },
+    {
+        "title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+        "category": "Mystery",
+        "price_gbp": 20.89,
+        "price_inr": 2203.89,
+        "rating": 4,
+        "in_stock": 1
+    },
+    {
+        "title": "Tipping the Velvet",
+        "category": "Historical Fiction",
+        "price_gbp": 53.74,
+        "price_inr": 5669.57,
+        "rating": 1,
+        "in_stock": 1
+    },
+    {
+        "title": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton",
+        "category": "Historical Fiction",
+        "price_gbp": 29.69,
+        "price_inr": 3132.3,
+        "rating": 3,
+        "in_stock": 1
+    },
+    {
+        "title": "A Flight of Arrows (The Pathfinders #2)",
+        "category": "Historical Fiction",
+        "price_gbp": 55.53,
+        "price_inr": 5858.41,
+        "rating": 5,
+        "in_stock": 1
+    },
+    {
+        "title": "The House by the Lake",
+        "category": "Historical Fiction",
+        "price_gbp": 36.95,
+        "price_inr": 3898.23,
+        "rating": 1,
+        "in_stock": 1
+    },
+    {
+        "title": "Mrs. Houdini",
+        "category": "Historical Fiction",
+        "price_gbp": 30.25,
+        "price_inr": 3191.38,
+        "rating": 5,
+        "in_stock": 1
+    },
+    {
+        "title": "The Marriage of Opposites",
+        "category": "Historical Fiction",
+        "price_gbp": 28.08,
+        "price_inr": 2962.44,
+        "rating": 4,
+        "in_stock": 1
+    },
+    {
+        "title": "Glory over Everything: Beyond The Kitchen House",
+        "category": "Historical Fiction",
+        "price_gbp": 45.84,
+        "price_inr": 4836.12,
+        "rating": 3,
+        "in_stock": 1
+    },
+    {
+        "title": "Love, Lies and Spies",
+        "category": "Historical Fiction",
+        "price_gbp": 20.55,
+        "price_inr": 2168.03,
+        "rating": 2,
+        "in_stock": 1
+    },
+    {
+        "title": "A Paris Apartment",
+        "category": "Historical Fiction",
+        "price_gbp": 39.01,
+        "price_inr": 4115.55,
+        "rating": 4,
+        "in_stock": 1
+    },
+    {
+        "title": "Lilac Girls",
+        "category": "Historical Fiction",
+        "price_gbp": 17.28,
+        "price_inr": 1823.04,
+        "rating": 2,
+        "in_stock": 1
+    },
+    {
+        "title": "The Constant Princess (The Tudor Court #1)",
+        "category": "Historical Fiction",
+        "price_gbp": 16.62,
+        "price_inr": 1753.41,
+        "rating": 3,
+        "in_stock": 1
+    },
+    {
+        "title": "The Invention of Wings",
+        "category": "Historical Fiction",
+        "price_gbp": 37.34,
+        "price_inr": 3939.37,
+        "rating": 1,
+        "in_stock": 1
+    },
+    {
+        "title": "World Without End (The Pillars of the Earth #2)",
+        "category": "Historical Fiction",
+        "price_gbp": 32.97,
+        "price_inr": 3478.34,
+        "rating": 4,
+        "in_stock": 1
+    },
+    {
+        "title": "The Passion of Dolssa",
+        "category": "Historical Fiction",
+        "price_gbp": 28.32,
+        "price_inr": 2987.76,
+        "rating": 5,
+        "in_stock": 1
+    },
+    {
+        "title": "Girl With a Pearl Earring",
+        "category": "Historical Fiction",
+        "price_gbp": 26.77,
+        "price_inr": 2824.24,
+        "rating": 1,
+        "in_stock": 1
+    },
+    {
+        "title": "Voyager (Outlander #3)",
+        "category": "Historical Fiction",
+        "price_gbp": 21.07,
+        "price_inr": 2222.89,
+        "rating": 5,
+        "in_stock": 1
+    },
+    {
+        "title": "The Red Tent",
+        "category": "Historical Fiction",
+        "price_gbp": 35.66,
+        "price_inr": 3762.13,
+        "rating": 5,
+        "in_stock": 1
+    },
+    {
+        "title": "The Last Painting of Sara de Vos",
+        "category": "Historical Fiction",
+        "price_gbp": 55.55,
+        "price_inr": 5860.52,
+        "rating": 2,
+        "in_stock": 1
+    },
+    {
+        "title": "The Guernsey Literary and Potato Peel Pie Society",
+        "category": "Historical Fiction",
+        "price_gbp": 49.53,
+        "price_inr": 5225.41,
+        "rating": 1,
+        "in_stock": 1
+    },
+    {
+        "title": "Girl in the Blue Coat",
+        "category": "Historical Fiction",
+        "price_gbp": 46.83,
+        "price_inr": 4940.56,
+        "rating": 2,
+        "in_stock": 1
+    }
+]
